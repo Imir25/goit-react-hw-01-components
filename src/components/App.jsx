@@ -5,7 +5,6 @@ import Profile from './Profile';
 import user from './user.json';
 import data from './data.json';
 import Statistics from './Statistics';
-import styles from './Statistics.module.css';
 import TransactionHistory from './TransactionHistory'; 
 import transactions from './transactions.json'; 
 
